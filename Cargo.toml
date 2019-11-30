@@ -3,6 +3,9 @@ name = "lu-decomp"
 version = "0.1.0"
 authors = ["DomiDre <dominiquedresen@gmail.com>"]
 edition = "2018"
+description = "Library for applying LU decomposition and solve linear equations"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/domidre/lu-decomp"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
